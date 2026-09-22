@@ -149,7 +149,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [x] [TryHackMe | Bash Scripting](https://tryhackme.com/room/bashscripting)
 
-- [ ] [TryHackMe | Learn Rust](https://tryhackme.com/room/rust)
+- [x] [TryHackMe | Learn Rust](https://tryhackme.com/room/rust)
 
 ## Networking
 
