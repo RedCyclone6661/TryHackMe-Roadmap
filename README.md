@@ -163,7 +163,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [x] [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
 
-- [ ] [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
+- [x] [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
 
 - [ ] [TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
 
