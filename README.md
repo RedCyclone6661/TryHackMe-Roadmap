@@ -161,7 +161,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | Networking](https://tryhackme.com/room/bpnetworking)
 
-- [ ] [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
+- [x] [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
 
 - [ ] [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
 
