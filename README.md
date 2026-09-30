@@ -155,7 +155,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
+- [x] [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
 
 - [ ] [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
 
