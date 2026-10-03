@@ -171,7 +171,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
+- [x] [TryHackMe | Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
 
 - [ ] [TryHackMe | Metasploit](https://tryhackme.com/room/rpmetasploit)
 
