@@ -165,7 +165,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [x] [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
 
-- [ ] [TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
+- [x] [TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
 
 ## Tooling
 
